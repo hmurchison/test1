@@ -6,10 +6,25 @@
 	padding: 0;
 }
 #container { 
-	width: 900px;
-	
+	width: 620px;
+	background-color: black;
 }
 
 img { 
 	display: inline-block;
+	vertical-align: top;
+	border: 2px solid gray;
+	width: 300;
+	height: 200;
+	margin: 1px;
+}
+
+h1, p { 
+	color: white;
+	width: 620px;
+
+}
+
+p {
+	margin: 10px 2px 4px 2px;
 }
