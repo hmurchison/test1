@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/* CSS Document */
+
+* {
+	margin: 0 auto;
+	padding: 0;
+}
+#container { 
+	width: 900px;
+	
+}
+
+img { 
+	display: inline-block;
+}
